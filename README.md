@@ -3,7 +3,7 @@
 ## Dokumentasi API
 
 - API Login
-![](https://github.com/fauzanmuh/Test-bosCOD/raw/master/dokumentasiAPI/login.png)
+![](https://github.com/fauzanmuh/Test-bosCOD/raw/master/dokumentasiAPI/Login.png)
 
 - API Update Token
 ![](https://github.com/fauzanmuh/Test-bosCOD/raw/master/dokumentasiAPI/updateToken.png)
